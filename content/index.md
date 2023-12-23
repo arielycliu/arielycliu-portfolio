@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Hi, I'm Ariel
+draft: false
+tags:
+ - main-page
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+>Welcome to my digital garden 🌱
+
+I'm a computer science student currently studying at the University of Toronto. My passions include AI, IoT, and Web development. Check out the rest of my projects or head back to my [main site](https://arielycliu.github.io/) to learn more!
