@@ -10,4 +10,4 @@ To come when I actually develop a recipe where the shells are not slightly hollo
 
 My crème brûlée tiny macarons (who knew creme brulee had so many accents)
 
-![[IMG_1043[1].jpg]]
+![Creme brulee macaron](https://i.ibb.co/B4H3H0L/IMG-1043-1.jpg)
