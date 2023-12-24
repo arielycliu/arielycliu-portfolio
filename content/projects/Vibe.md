@@ -1,21 +1,21 @@
 ---
-title: Vibe
+title: Vibe 🏆
 draft: false
 tags:
- - ethereum
- - ipfs
- - react
- - solidity
- - web3
+  - ethereum
+  - ipfs
+  - react
+  - solidity
+  - web3
 ---
 
 ###### A course platform built using blockchain to lower costs, and allow for a direct connection from teacher to student!
 
->This project is a winner of SF Hacks
+>This project is a 🏆 **winner** 🏆of SF Hacks
 
-[Read the devpost](https://devpost.com/software/vibe-ygl7mc)
+##### [Read the Devpost here](https://devpost.com/software/vibe-ygl7mc)
 
-[Check out the code](https://github.com/SabrinaHirani/Vibe)
+##### [Check out the code here](https://github.com/SabrinaHirani/Vibe)
 
 
 ## 🔍What it does
@@ -23,7 +23,7 @@ All users have the option to create and/or enroll in classes. There are no restr
 
 Once a teacher creates a class, they set a price to their class. Students can then purchase the class and leave ratings depending on their experience with the class. Each class comes with forum functionality and a chat room to encourage community-driven learning.
 
-##### 📖TLDR
+#### 📖TLDR
 Vibe makes learning about learning by removing barriers to learning such as accessibility, affordability, and lack of engagement.
 
 ---

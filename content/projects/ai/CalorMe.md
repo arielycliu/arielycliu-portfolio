@@ -8,9 +8,9 @@ tags:
  - computer-vision
 ---
 
-[Read my article](https://arielycliu.medium.com/classifying-food-with-computer-vision-a473249cf2f2)
+##### [Read my article here](https://arielycliu.medium.com/classifying-food-with-computer-vision-a473249cf2f2)
 
-[Check out the github](https://github.com/arielycliu/calorme)
+##### [Check out the Github here](https://github.com/arielycliu/calorme)
 
 ![CalorMe Demo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/661/873/datas/gallery.jpg)
 

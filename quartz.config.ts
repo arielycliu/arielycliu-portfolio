@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Space Grotesk",
-        body: "Source Code Pro",
+        body: "Roboto Mono",
         code: "JetBrains Mono",
       },
       colors: {

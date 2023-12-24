@@ -8,9 +8,9 @@ tags:
  - Maven
 ---
 
-[Check out the slides](https://docs.google.com/presentation/d/1qoNWG0geeG4vUfHgIuQSm67iJDn23Ev59ejS09i45D0/edit?usp=sharing)
+##### [Check out the slides here](https://docs.google.com/presentation/d/1qoNWG0geeG4vUfHgIuQSm67iJDn23Ev59ejS09i45D0/edit?usp=sharing)
 
-[Check out the github](https://github.com/arielycliu/MangoDash)
+##### [Check out the Github here](https://github.com/arielycliu/MangoDash)
 
 
 <img alt="homepage" src="https://github.com/Burakkey/MangoDash/assets/44077856/72285faf-d545-44f6-ab8d-0f16714b45e4">
@@ -22,7 +22,7 @@ Extensions tab with the API keys
 <img alt="Facebookstats" src="https://github.com/Burakkey/MangoDash/assets/44077856/207d0f46-f5cc-44ab-967d-351a724c42e0">
 Opening up the Facebook statistics
 
-## 🥭 Inspiration
+## 🥭Inspiration
 We wanted to create a simple and intuitive way for social media influencers to track their analytics all in one place. MangoDash allows for the potential to perform cross platform comparisons, and to track growth over time.
 
 ## 🔍What it does

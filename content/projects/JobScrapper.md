@@ -9,9 +9,9 @@ tags:
  - Zenrows
 ---
 
-[Check out the demo](https://clipchamp.com/watch/LjLu8QQ3zP5)
+##### [Check out a quick demo here](https://clipchamp.com/watch/LjLu8QQ3zP5)
 
-[Check out the github](https://github.com/arielycliu/job-scraper)
+##### [Check out the Github here](https://github.com/arielycliu/job-scraper)
 
 ![Job Board Demo](https://github.com/arielycliu/job-scrapper/raw/master/demo_img/JobScraperWebsiteHomepage.png)
 
