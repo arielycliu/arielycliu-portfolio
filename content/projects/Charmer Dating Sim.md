@@ -11,7 +11,7 @@ tags:
 ###### Charmer is a visual novel dating game made in RenPy.  
 Around 20-30 mins of playtime.
 
->This project is a 🏆 **special mention** 🏆of Winter MelonJam 2023
+>This project is a 🏆 **special mention** 🏆 of Winter MelonJam 2023
 
 ##### [See the itch page here](https://arielycliu.itch.io/charmer)
 
