@@ -88,7 +88,7 @@ a {
 .mobile-only {
   display: none;
   @media all and (max-width: $fullPageWidth) {
-    display: initial;
+    display: block;
   }
 }
 
