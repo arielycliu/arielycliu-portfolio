@@ -5,6 +5,7 @@ tags:
   - event
   - CDL
   - startup-ventures
+  - Experiences
 ---
 
 ##### [My original medium article lives here](https://arielycliu.medium.com/my-cdl-experience-meeting-startups-and-what-i-learned-from-entrepreneurs-53ae7dfc93f4)

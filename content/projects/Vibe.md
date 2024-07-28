@@ -7,6 +7,7 @@ tags:
   - react
   - solidity
   - web3
+  - Projects
 ---
 
 ###### A course platform built using blockchain to lower costs, and allow for a direct connection from teacher to student!

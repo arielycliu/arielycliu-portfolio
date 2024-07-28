@@ -5,6 +5,7 @@ tags:
   - Photography
   - Portfolio
   - Art
+  - Hobbies
 ---
 
 Not really a professional portfolio - more like my favorite images I've taken over the years

@@ -5,6 +5,7 @@ tags:
   - recipes
   - dessert
   - cookies
+  - Hobbies
 ---
 
 > Makes 40.5 cookies (20.5 if halved - I've put the half amounts in brackets next to each ingredient)

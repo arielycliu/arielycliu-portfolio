@@ -2,11 +2,12 @@
 title: JobScrapper
 draft: false
 tags:
- - BeautifulSoup
- - Flask
- - Python
- - Requests
- - Zenrows
+  - BeautifulSoup
+  - Flask
+  - Python
+  - Requests
+  - Zenrows
+  - Projects
 ---
 
 ##### [Check out a quick demo here](https://clipchamp.com/watch/LjLu8QQ3zP5)

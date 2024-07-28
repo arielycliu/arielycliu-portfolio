@@ -2,10 +2,11 @@
 title: MangoDash
 draft: false
 tags:
- - Java
- - JPanel
- - GraphAPI
- - Maven
+  - Java
+  - JPanel
+  - GraphAPI
+  - Maven
+  - Projects
 ---
 
 ##### [Check out the slides here](https://docs.google.com/presentation/d/1qoNWG0geeG4vUfHgIuQSm67iJDn23Ev59ejS09i45D0/edit?usp=sharing)

@@ -5,6 +5,7 @@ tags:
   - Design
   - Art
   - Portfolio
+  - Hobbies
 ---
 
 A sneak peak of the types of work I've done for clubs and companies in the past.

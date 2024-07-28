@@ -3,9 +3,11 @@ title: Charmer ❤️
 draft: false
 tags:
   - python
-  - game dev
+  - game
+  - dev
   - hackathon
   - renpy
+  - Projects
 ---
 
 ###### Charmer is a visual novel dating game made in RenPy.  

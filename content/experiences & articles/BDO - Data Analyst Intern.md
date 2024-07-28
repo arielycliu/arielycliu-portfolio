@@ -1,9 +1,10 @@
 ---
-title: BDO Internship
+title: BDO Internship 2023
 draft: false
 tags:
   - work
   - internship
+  - Experiences
 ---
 > The summer of 2023 I got the opportunity to work at **BDO Lixar**!
 

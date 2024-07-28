@@ -2,10 +2,12 @@
 title: CalorMe
 draft: false
 tags:
- - keras
- - tensorflow
- - flutter
- - computer-vision
+  - keras
+  - tensorflow
+  - flutter
+  - computer-vision
+  - Projects
+  - AI
 ---
 
 ##### [Read my article here](https://arielycliu.medium.com/classifying-food-with-computer-vision-a473249cf2f2)

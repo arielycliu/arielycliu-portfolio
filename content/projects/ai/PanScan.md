@@ -6,6 +6,8 @@ tags:
   - keras
   - tensorflow
   - medical
+  - Projects
+  - AI
 ---
 
 ###### Using biomarker data from various cancer antigens, we developed a neural network capable of detecting pancreatic cancer with an accuracy of 67%.

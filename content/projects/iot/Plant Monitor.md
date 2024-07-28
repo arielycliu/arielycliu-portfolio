@@ -2,10 +2,11 @@
 title: IoT Plant Monitor
 draft: false
 tags:
- - Arduino
- - ESP
- - Twitter
- - IoT
+  - Arduino
+  - ESP
+  - Twitter
+  - IoT
+  - Projects
 ---
 ##### [Check out the article here](https://arielycliu.medium.com/get-alerted-when-your-plants-dying-d085d0bdedf5)
 
