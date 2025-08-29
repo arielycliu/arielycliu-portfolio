@@ -1,12 +1,11 @@
 ---
-title: BDO Internship 2023
+title: 4. BDO Summer 2023
 draft: false
 tags:
   - work
   - internship
   - Experiences
 ---
-> The summer of 2023 I got the opportunity to work at **BDO Lixar**!
 
 ### InsurHub
 I worked on various [InsurHub](https://lixar.com/insurhub/) implementations for clients such as Brockfield, CLICO, and Maritimes. I enjoyed it lots and made many new friends -- I'm looking at you Pakawat, Rebecca, and Naftal 👀
